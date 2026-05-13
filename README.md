@@ -1,5 +1,5 @@
 # LSTM-Based-Energy-Demand-Forecasting-and-Generation-Optimization
-Dynamic Energy Demand And Generation Modeling In Smart Cities Using Artificial Neural Networks Paper Repo
+MODELING DYNAMIC ENERGY DEMAND AND GENERATION IN SMART CITIES USING ARTIFICIAL NEURAL NETWORKS (1980–2025) Paper Repo
 
 
 
